@@ -27,7 +27,7 @@
 
 **输入：** 用户需求、主题想法、参考素材
 
-**输出：** 填写完成的 Spec 模板（见 `spec-template.md`）
+**输出：** 填写完成的 Spec 模板（见 `templates/spec-template.md`）
 
 **Spec必须包含：**
 
@@ -135,7 +135,7 @@
 
 **归档：**
 - 所有过程文档（Spec、素材清单、初稿、Harness报告、终稿）保存在项目目录
-- 填写 Cycle Log（见 `cycle-log-template.md`），记录本次创作周期的问题和学习
+- 填写 Cycle Log（见 `templates/cycle-log-template.md`），记录本次创作周期的问题和学习
 - 如发现框架本身需要改进，触发自更新机制
 
 ---
